@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "name": "Tariel",
+      "number": "+996704135830",
+      "image": "https://miro.medium.com/max/1200/1*mk1-6aYaf_Bes1E3Imhc0A.jpeg",
+      "id": 2
+    },
+    {
+      "name": "Bakyt",
+      "number": "+996651563212",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Gull_portrait_ca_usa.jpg",
+      "id": 3
+    },
+    {
+      "name": "Таирова Аэлита ",
+      "number": "+996704135830",
+      "image": "https://www.pixsy.com/wp-content/uploads/2021/04/ben-sweet-2LowviVHZ-E-unsplash-1.jpeg",
+      "id": 4
+    }
+  ]
+}

@@ -32,6 +32,7 @@ const reducer = (state = INIT_STATE, action) => {
             return state
     };
 }
+
 const ContactsСontextProvider = ({ children }) => {
     const [state, dispatch] = useReducer(reducer, INIT_STATE);
     // получаем dispatch, чтоб менять state

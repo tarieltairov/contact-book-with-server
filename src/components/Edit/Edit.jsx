@@ -43,7 +43,9 @@ const Edit = () => {
 
     return (
                 <div>
+                  
         {editedProduct ? <div className="container d-flex flex-column align-items-center">
+        <div style={{width: '100%', height: '100px'}}></div>
       <input
         value={editedProduct.name}
         type="text"

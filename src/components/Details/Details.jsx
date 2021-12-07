@@ -13,7 +13,9 @@ const Details = () => {
     },[])
     return (
         <div className="container"> 
+         <div style={{width: '100%', height: '150px'}}></div>
             {details ? ( 
+                
                 <div> 
                  <h5>Name: {details.name}</h5>   
                  
